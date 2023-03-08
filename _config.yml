@@ -73,7 +73,7 @@ disqus_shortname: kevinhome
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material-flow
+theme: auto
 search:
   path: search.xml
   field: post
